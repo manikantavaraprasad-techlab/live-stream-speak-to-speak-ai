@@ -1,0 +1,6 @@
+vosk
+sounddevice
+soundfile
+numpy
+groq
+edge-tts
