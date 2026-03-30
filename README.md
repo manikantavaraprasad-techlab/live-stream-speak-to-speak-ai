@@ -46,10 +46,10 @@ python main.py
 
 ## 🎥 Demo
 
-(Add your demo link here)
+(Loading......)
 
 ---
 
 ## 👨‍💻 Author
 
-Manikanta VP
+Manikanta Vara Prasad
