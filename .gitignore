@@ -1,0 +1,7 @@
+knowledge.db
+*.wav
+__pycache__/
+*.pyc
+entity_db/
+vosk_models/
+.env
